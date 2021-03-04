@@ -1,1 +1,1 @@
-package go_module
+package pandora
