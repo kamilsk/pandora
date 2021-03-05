@@ -1,4 +1,4 @@
-module go-module
+module github.com/kamilsk/pandora
 
 go 1.11
 
